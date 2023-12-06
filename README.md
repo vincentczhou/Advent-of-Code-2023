@@ -2,5 +2,5 @@
 
 My Advent of Code 2023 Solutions!
 
-[!NOTE]
-Contains answer spoilers!
+> [!WARNING]
+> Contains Spoilers!
