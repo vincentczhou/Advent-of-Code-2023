@@ -29,4 +29,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-# The sum is: 18157
+# The count is: 18157

@@ -68,4 +68,5 @@ def main():
 if __name__ == "__main__":
     main()
 
-# The sum is: 303600
+# Each path from a start to end node is cyclic: True
+# The count is: 14299763833181
